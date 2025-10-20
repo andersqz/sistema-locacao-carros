@@ -16,4 +16,4 @@ Sistema desenvolvido em C++ de locação de carros com pré cadastro de locatár
 
 ##  Como executar
 1. Compile todos os arquivos:
-   g++ main.cpp funcoes.cpp -o locacar
+   g++ main.cpp funcoes.cpp -o roda
