@@ -10,7 +10,6 @@
 #include <sstream>
 #include <vector>
 #include <clocale>
-#include <windows.h>
 #include <limits>
 
 using namespace std;

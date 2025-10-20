@@ -1,9 +1,6 @@
 #include "funcoes.h"
 
 int main() {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
-    setlocale(LC_ALL, "pt_BR.UTF-8");
     setlocale(LC_ALL, "Portuguese");
 
     int opcao;

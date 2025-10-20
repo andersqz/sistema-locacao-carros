@@ -14,7 +14,7 @@ string dataHoraAtual()
     ss << tempoLocal->tm_mday << "/"
         << tempoLocal->tm_mon + 1 << "/"
         << tempoLocal->tm_year + 1900 << " - "
-        << tempoLocal->tm_hour << ";"
+        << tempoLocal->tm_hour << ":"
         << tempoLocal->tm_min << ":"
         << tempoLocal->tm_sec;
 
