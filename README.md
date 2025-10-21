@@ -1,5 +1,5 @@
 # sistema-locacao-carros
-Sistema em terminal desenvolvido em C++ de locação de carros com pré cadastro de locatário modularizado em funções em arquivos separados para trabalho da cadeira de Algoritmos B da faculdade de SI.
+Sistema em terminal desenvolvido em C++ de locação de carros com pré cadastro de locatário modularizado em funções com arquivos separados para trabalho da cadeira de Algoritmos B da faculdade de SI.
 
 ## Funcionalidades
 - Cadastro de locatários (nome, CPF, endereço)
